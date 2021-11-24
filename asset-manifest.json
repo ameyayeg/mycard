@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/staticreactapp/static/css/main.fcc4fa99.chunk.css",
+    "main.js": "/staticreactapp/static/js/main.f12f4a87.chunk.js",
+    "main.js.map": "/staticreactapp/static/js/main.f12f4a87.chunk.js.map",
+    "runtime-main.js": "/staticreactapp/static/js/runtime-main.86989de0.js",
+    "runtime-main.js.map": "/staticreactapp/static/js/runtime-main.86989de0.js.map",
+    "static/js/2.4aaab483.chunk.js": "/staticreactapp/static/js/2.4aaab483.chunk.js",
+    "static/js/2.4aaab483.chunk.js.map": "/staticreactapp/static/js/2.4aaab483.chunk.js.map",
+    "index.html": "/staticreactapp/index.html",
+    "static/css/main.fcc4fa99.chunk.css.map": "/staticreactapp/static/css/main.fcc4fa99.chunk.css.map",
+    "static/js/2.4aaab483.chunk.js.LICENSE.txt": "/staticreactapp/static/js/2.4aaab483.chunk.js.LICENSE.txt",
+    "static/media/ameya.ed6b473d.jpeg": "/staticreactapp/static/media/ameya.ed6b473d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86989de0.js",
+    "static/js/2.4aaab483.chunk.js",
+    "static/css/main.fcc4fa99.chunk.css",
+    "static/js/main.f12f4a87.chunk.js"
+  ]
+}
