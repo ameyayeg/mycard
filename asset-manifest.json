@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/cardapp/static/css/main.fcc4fa99.chunk.css",
-    "main.js": "/cardapp/static/js/main.f12f4a87.chunk.js",
-    "main.js.map": "/cardapp/static/js/main.f12f4a87.chunk.js.map",
-    "runtime-main.js": "/cardapp/static/js/runtime-main.8b2bfc77.js",
-    "runtime-main.js.map": "/cardapp/static/js/runtime-main.8b2bfc77.js.map",
-    "static/js/2.4aaab483.chunk.js": "/cardapp/static/js/2.4aaab483.chunk.js",
-    "static/js/2.4aaab483.chunk.js.map": "/cardapp/static/js/2.4aaab483.chunk.js.map",
-    "index.html": "/cardapp/index.html",
-    "static/css/main.fcc4fa99.chunk.css.map": "/cardapp/static/css/main.fcc4fa99.chunk.css.map",
-    "static/js/2.4aaab483.chunk.js.LICENSE.txt": "/cardapp/static/js/2.4aaab483.chunk.js.LICENSE.txt",
-    "static/media/ameya.ed6b473d.jpeg": "/cardapp/static/media/ameya.ed6b473d.jpeg"
+    "main.css": "/mycard/static/css/main.fcc4fa99.chunk.css",
+    "main.js": "/mycard/static/js/main.f12f4a87.chunk.js",
+    "main.js.map": "/mycard/static/js/main.f12f4a87.chunk.js.map",
+    "runtime-main.js": "/mycard/static/js/runtime-main.d62dda1e.js",
+    "runtime-main.js.map": "/mycard/static/js/runtime-main.d62dda1e.js.map",
+    "static/js/2.4aaab483.chunk.js": "/mycard/static/js/2.4aaab483.chunk.js",
+    "static/js/2.4aaab483.chunk.js.map": "/mycard/static/js/2.4aaab483.chunk.js.map",
+    "index.html": "/mycard/index.html",
+    "static/css/main.fcc4fa99.chunk.css.map": "/mycard/static/css/main.fcc4fa99.chunk.css.map",
+    "static/js/2.4aaab483.chunk.js.LICENSE.txt": "/mycard/static/js/2.4aaab483.chunk.js.LICENSE.txt",
+    "static/media/ameya.ed6b473d.jpeg": "/mycard/static/media/ameya.ed6b473d.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b2bfc77.js",
+    "static/js/runtime-main.d62dda1e.js",
     "static/js/2.4aaab483.chunk.js",
     "static/css/main.fcc4fa99.chunk.css",
     "static/js/main.f12f4a87.chunk.js"
