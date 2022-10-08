@@ -14,3 +14,6 @@ Start the development server:
 
 ```$ npm run start```
 
+# Screenshot 
+
+![Screenshot 2022-10-08 at 13 18 10](https://user-images.githubusercontent.com/91851828/194719616-b8dec7e2-327e-4dd5-a520-4afdc67e1d62.png)
